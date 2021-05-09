@@ -1,4 +1,4 @@
-"""This script is expected to run by a command `python line_interview_test.py --input "5\n8 8 2 4 8"`."""
+"""This script is expected to run by a command `python assignment_1_coding_test.py --input "5\n8 8 2 4 8"`."""
 
 import argparse
 import collections
